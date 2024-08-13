@@ -1,16 +1,15 @@
-## Hi there 👋
+## Lời bài hát
 
-<!--
-**loibaihatasia/loibaihatasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lời bài hát là phần văn bản trong một bài hát, chứa đựng những câu chữ được viết nên bởi tác giả để truyền tải ý nghĩa, cảm xúc và thông điệp của tác phẩm âm nhạc. Lời bài hát thường kết hợp với giai điệu để tạo ra một tác phẩm hoàn chỉnh, chạm đến trái tim và tâm hồn người nghe.
 
-Here are some ideas to get you started:
+#loibaihat #phantichloibaihat
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Website: https://loibaihat.asia
+
+https://www.tumblr.com/loibaihatasia
+
+https://www.pinterest.com/loibaihatasia/
+
+https://www.youtube.com/channel/UCls9837YOwoJgftxA6qB_fA
+
+https://www.twitch.tv/loibaihatasia
